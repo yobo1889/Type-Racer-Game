@@ -1,0 +1,4 @@
+Add a timer
+avoid repeated words
+stress test the game
+submit
